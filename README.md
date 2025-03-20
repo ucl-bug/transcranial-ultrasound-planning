@@ -1,4 +1,4 @@
-# Ultrasound system for precise neuromodulation of human deep brain circuits
+# Ultrasound system for precise neuromodulation of human deep brain circuits: MR and CT Image Processing Tools for Targeting and Registration
 
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101/2024.06.08.597305-blue)](https://doi.org/10.1101/2024.06.08.597305) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
