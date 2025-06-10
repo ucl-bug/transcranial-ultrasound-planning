@@ -1,7 +1,7 @@
 # Ultrasound system for precise neuromodulation of human deep brain circuits
 ## MR and CT image processing tools for targeting and registration
 
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101/2024.06.08.597305-blue)](https://doi.org/10.1101/2024.06.08.597305) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101/2024.06.08.597305-blue)](https://doi.org/10.1101/2024.06.08.597305) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![DOI](https://zenodo.org/badge/951798521.svg)](https://doi.org/10.5281/zenodo.15627889)
 
 This repository contains scripts and utilities for processing MR and CT images used with our advanced transcranial ultrasound system, a 256-element array designed for precise deep brain neuromodulation in humans. These tools were written by Bradley Treeby, University College London.
 
